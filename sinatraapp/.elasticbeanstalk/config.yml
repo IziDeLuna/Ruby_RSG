@@ -1,0 +1,13 @@
+branch-defaults:
+  default:
+    environment: sinatraapp-dev
+    group_suffix: null
+global:
+  application_name: sinatraapp
+  branch: null
+  default_ec2_keyname: null
+  default_platform: Ruby 2.3 (Puma)
+  default_region: us-west-2
+  profile: eb-cli
+  repository: null
+  sc: null
